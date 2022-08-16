@@ -89,7 +89,7 @@ It was developed using: Javascript, React, Redux, pure CSS, Express, PostgreSQL,
 <td width="20%" align="center">  
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" align="center" margin-left="10px"/> 
-   <p>Postgresql</p>
+   <p>PostgreSQL</p>
 </a></td>
   
 <td width="20%" align="center">
