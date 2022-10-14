@@ -35,6 +35,23 @@ It was developed using: Javascript, React, Redux, pure CSS, Express, PostgreSQL,
 
 <h1 align="rigth">Languages and Tools:</h1>
 
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat&logo=javascript&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-React-43879a?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white">
+
+
+<!--
 <table align="center">
   <tbody  justify="center">
     <tr valign="top">
@@ -112,7 +129,7 @@ It was developed using: Javascript, React, Redux, pure CSS, Express, PostgreSQL,
 </tr>
 </tbody>
 </table>
-
+-->
 <br>
 
 <h1 align="rigth">My stats:</h1>
