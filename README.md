@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="rigth">About me:</h1>
-<p>I'm a Full Stack Developer (Front-End oriented).</p>
+<p>I'm a Front-End Developer.</p>
 <p>I believe that it is essential to complete the proposed objectives, as well as to continue learning and constantly updating myself with technologies in order to grow in the workplace.</p>
 <p>Welcome!! 👋</p>
 
