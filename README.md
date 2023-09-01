@@ -143,7 +143,7 @@ It was developed using: Javascript, React, Redux, pure CSS, Express, PostgreSQL,
 <h1 align="rigth">Contact with me:</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sol-r%C3%A1zuri-fullstackdeveloper/" target="_blank">
+  <a href="https://www.linkedin.com/in/sol-r%C3%A1zuri-frontenddeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="20px" width="80px" align="center" justify="center">
   </a>
 
