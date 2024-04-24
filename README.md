@@ -27,7 +27,7 @@ E-Commerce that allows you to see all the events that are about to happen near y
   <img width='50%' src='https://user-images.githubusercontent.com/54045939/184971887-9203576b-5d56-4299-b5c1-011025e51111.png' alt="Dogs"/>
 </p>
 
-- [DOGS APP](https://github.com/JhonatanPG02/PI-Dogs):
+- [DOGS APP](https://github.com/Abisol-2711/PI-Dogs):
 I developed a SPA (Single Page Application) that allows me to show the breeds of dogs from an API, the functionalities are: Filters, sorts, search, pagination, controlled form for the creation of a new breed.
 It was developed using: Javascript, React, Redux, pure CSS, Express, PostgreSQL, Node.js.
 
