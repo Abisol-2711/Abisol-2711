@@ -33,7 +33,7 @@ It was developed using: Javascript, React, Redux, pure CSS, Express, PostgreSQL,
 
 <br>
 
-<h1 align="rigth">Stack:</h1>
+<h1 align="rigth">My stack:</h1>
 <h3 align="rigth">Fronted:</h3>
 
 [![Skills](https://skills.syvixor.com/api/icons?i=html,css,js,react,ts,bootstrap,tailwind)](https://github.com/syvixor/skills-icons)
