@@ -1,79 +1,90 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=%23FFEB95&size=30&center=true&lines=Hello%2C+world+%F0%9F%8C%8E;I+am+Sol...;Nice+to+meet+you+%F0%9F%91%8B+">
-  </a>
-</h1>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:EEE8FF,50:C3B4FB,100:8C74FF&text=Hola,%20soy%20Sol&fontColor=1E1838&fontSize=56&fontAlignY=38&desc=Frontend%20Developer%20·%20React%20·%20JavaScript&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Hola, soy Sol — Frontend Developer" />
 
-<br>
-
-<h1 align="rigth">About me:</h1>
-<p>I'm a Front-End Developer.</p>
-<p>I believe that it is essential to complete the proposed objectives, as well as to continue learning and constantly updating myself with technologies in order to grow in the workplace.</p>
-<p>Welcome!! 👋</p>
-
-<br>
-
-<h1 align="rigth">My projects:</h1>
-<p align="center">
-  <img width='50%' src='https://user-images.githubusercontent.com/54045939/184968451-76f65bc9-34ff-4bcd-a58d-0b9d87eabd4d.png' alt="MainStage"/>
-</p>
-
-- [MAINSTAGE](https://github.com/Hecatonquir/Final_Project_18-07-2022):
-E-Commerce that allows you to see all the events that are about to happen near you. They can be free or paid, and in that case you can buy the tickets right there. The functionalities are: Shopping Cart, Payment Method, Add to favorites, Registration of new users, Geolocation, Controlled Forms, Administrator Panel and Organizer (List of users, events, purchases, etc.)
-[Ver la aplicación aquí](https://mainstage.vercel.app/)
-
-
-<p align="center">
-  <img width='50%' src='https://user-images.githubusercontent.com/54045939/184971887-9203576b-5d56-4299-b5c1-011025e51111.png' alt="Dogs"/>
-</p>
-
-- [DOGS APP](https://github.com/Abisol-2711/PI-Dogs):
-I developed a SPA (Single Page Application) that allows me to show the breeds of dogs from an API, the functionalities are: Filters, sorts, search, pagination, controlled form for the creation of a new breed.
-It was developed using: Javascript, React, Redux, pure CSS, Express, PostgreSQL, Node.js.
-
-<br>
-
-<h1 align="rigth">My stack:</h1>
-<h3 align="rigth">Fronted:</h3>
-
-[![Skills](https://skills.syvixor.com/api/icons?i=html,css,js,react,ts,bootstrap,tailwind,shadcnui)](https://github.com/syvixor/skills-icons)
-
-<h3 align="rigth">Backend:</h3>
-
-[![Skills](https://skills.syvixor.com/api/icons?i=nodejs,mysql,postgresql,express,firebase,supabase)](https://github.com/syvixor/skills-icons)
-
-<h3 align="rigth">Tools:</h3>
-
-[![Skills](https://skills.syvixor.com/api/icons?i=git,github,figma,trello,jira,postman,notion)](https://github.com/syvixor/skills-icons)
-
-<br>
-
-<h1 align="rigth">My stats:</h1>
 <div align="center">
-  <a href="https://github.com/Abisol-2711">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abisol-2711&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abisol-2711&layout=compact&langs_count=7&theme=nightowl"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&duration=3000&pause=1200&color=5B45D6&center=true&vCenter=true&width=520&lines=Creo+sitios+y+apps+web+con+React;Cuido+la+experiencia+de+usuario+y+el+rendimiento;Mapas+interactivos+y+3D+con+MapLibre+y+Three.js" alt="Creo sitios y apps web con React" />
+
+<a href="https://www.linkedin.com/in/sol-razuri-frontenddeveloper"><img src="https://img.shields.io/badge/LinkedIn-5B45D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:solabigail00@hotmail.com"><img src="https://img.shields.io/badge/Email-F47AB4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+<!-- Cuando publiques el portfolio, sacá el comentario de la línea de abajo y poné tu link -->
+<!-- <a href="https://TU-PORTFOLIO.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8C74FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> -->
+
 </div>
 
-<br>
+---
 
-<h1 align="rigth">Contact with me:</h1>
+### 💜 Sobre mí
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sol-r%C3%A1zuri-frontenddeveloper/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="20px" width="80px" align="center" justify="center">
-  </a>
+Soy desarrolladora frontend especializada en **React y JavaScript**. Me gusta crear sitios y aplicaciones web cuidando la experiencia de usuario y el rendimiento.
 
-  <a href="https://github.com/Abisol-2711" target="_blank">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white" height="20px" width="80px" align="center" justify="center">  
-  </a>
-</p>
+- 🏙️ Trabajo en el **Gobierno de la Ciudad de Buenos Aires**, desarrollando aplicaciones web geográficas: visores 3D, mapas interactivos y buscadores.
+- 🗺️ Sumé experiencia con mapas y 3D usando **MapLibre GL JS** y **Three.js**.
+- 🐍 También trabajo con **Python/Django** y **PostgreSQL/PostGIS** del lado del backend.
+- 🎓 Analista en Sistemas y estudiante de la Licenciatura en Informática.
+- 💼 Abierta a oportunidades **remotas** como Frontend Developer.
 
+---
 
+### 🛠️ Tecnologías
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-EEE8FF?style=flat-square&logo=react&logoColor=5B45D6)
+![JavaScript](https://img.shields.io/badge/JavaScript-EEE8FF?style=flat-square&logo=javascript&logoColor=5B45D6)
+![TypeScript](https://img.shields.io/badge/TypeScript-EEE8FF?style=flat-square&logo=typescript&logoColor=5B45D6)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-EEE8FF?style=flat-square&logo=redux&logoColor=5B45D6)
+![Vite](https://img.shields.io/badge/Vite-EEE8FF?style=flat-square&logo=vite&logoColor=5B45D6)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-EEE8FF?style=flat-square&logo=tailwindcss&logoColor=5B45D6)
+![HTML5](https://img.shields.io/badge/HTML5-EEE8FF?style=flat-square&logo=html5&logoColor=5B45D6)
+![CSS3](https://img.shields.io/badge/CSS3-EEE8FF?style=flat-square&logo=css3&logoColor=5B45D6)
+
+**Mapas y 3D**
+
+![MapLibre](https://img.shields.io/badge/MapLibre_GL_JS-FFE9F4?style=flat-square&logo=maplibre&logoColor=A3306B)
+![Three.js](https://img.shields.io/badge/Three.js-FFE9F4?style=flat-square&logo=threedotjs&logoColor=A3306B)
+![Leaflet](https://img.shields.io/badge/Leaflet-FFE9F4?style=flat-square&logo=leaflet&logoColor=A3306B)
+
+**Backend y datos**
+
+![Python](https://img.shields.io/badge/Python-E3F7EF?style=flat-square&logo=python&logoColor=1F7A57)
+![Django](https://img.shields.io/badge/Django_REST-E3F7EF?style=flat-square&logo=django&logoColor=1F7A57)
+![Node.js](https://img.shields.io/badge/Node.js-E3F7EF?style=flat-square&logo=nodedotjs&logoColor=1F7A57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_·_PostGIS-E3F7EF?style=flat-square&logo=postgresql&logoColor=1F7A57)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-FFF4DB?style=flat-square&logo=git&logoColor=9A6A00)
+![GitLab](https://img.shields.io/badge/GitLab-FFF4DB?style=flat-square&logo=gitlab&logoColor=9A6A00)
+![Linux](https://img.shields.io/badge/Linux-FFF4DB?style=flat-square&logo=linux&logoColor=9A6A00)
+![Docker](https://img.shields.io/badge/Docker-FFF4DB?style=flat-square&logo=docker&logoColor=9A6A00)
+![Figma](https://img.shields.io/badge/Figma-FFF4DB?style=flat-square&logo=figma&logoColor=9A6A00)
+
+---
+
+### 🚀 Proyectos
+
+<!-- Cuando tengas el proyecto nuevo, agregalo como primera fila de esta tabla -->
+
+| Proyecto | Descripción | Tecnologías |
+| :-- | :-- | :-- |
+| **🎟️ MainStage** | E-commerce de eventos con carrito, pagos, geolocalización y panel de administración. Proyecto en equipo de 8. | React · Redux · Node.js · PostgreSQL |
+| **🐶 Dogs App** | SPA con búsqueda, filtros, ordenamiento, paginación y creación de razas. | React · Redux · Express · PostgreSQL |
+
+---
+
+### 🐍 Mi actividad
+
+<!--
+  ⚠️ Reemplazá este bloque por el de tu serpiente actual, copiándolo tal cual
+  desde tu README de hoy. Así se sigue viendo igual que ahora.
+-->
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abisol-2711/Abisol-2711/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abisol-2711/Abisol-2711/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente que se come mis contribuciones" src="https://raw.githubusercontent.com/Abisol-2711/Abisol-2711/output/github-contribution-grid-snake.svg" />
 </picture>
+</div>
 
-<!--![Snake animation](https://github.com/Abisol-2711/Abisol-2711/blob/output/github-contribution-grid-snake.svg)-->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8C74FF,50:C3B4FB,100:EEE8FF" width="100%" alt="" />
